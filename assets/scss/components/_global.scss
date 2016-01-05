@@ -1,0 +1,22 @@
+body {
+  font-size: 18px;
+  background-color: #e9e7e7;
+}
+
+.container {
+  max-width: 665px;
+}
+
+.empty { background-color: #f4f4f4; }
+
+.collection {
+  border-width: 0px;
+  margin-top: 85px;
+
+  .collection-item {
+    &.empty {
+      color: #bcbcbc;
+      background-color: rgba(0, 0, 0, 0.05);
+    }
+  }
+}

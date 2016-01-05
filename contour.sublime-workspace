@@ -1,0 +1,1540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align-last"
+			],
+			[
+				"modal",
+				"modal-title"
+			],
+			[
+				"mo",
+				"modal-title"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"thum",
+				"thumbnail-title"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"a",
+				"a	<a href=\"mailto:\"> "
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"scree",
+				"screen-sm-max"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"scr",
+				"screen-xs-max"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"noe",
+				"no-repeat"
+			],
+			[
+				"get_templ",
+				"get_template_directory_uri"
+			],
+			[
+				"anch",
+				"anchorLink"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"he",
+				"height:   (property)"
+			],
+			[
+				"get_template_director",
+				"get_template_directory_uri  (function)"
+			],
+			[
+				"brand",
+				"brand-primary"
+			],
+			[
+				"single-",
+				"single-title"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"arti",
+				"artist_e"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"inline",
+				"inline-block  (value)"
+			],
+			[
+				"last",
+				"last_string  (variable)"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"day",
+				"dayNumber"
+			],
+			[
+				"current",
+				"current_earnings"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"gray",
+				"gray-darker"
+			],
+			[
+				"video",
+				"video_format"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"overflow",
+				"overflow-x:   (property)"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"class",
+				"classesInfo"
+			],
+			[
+				"hotel-",
+				"hotel-information"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"flex-",
+				"flex-next"
+			],
+			[
+				"las",
+				"last-child"
+			],
+			[
+				"search",
+				"searchsubmit"
+			],
+			[
+				"chld",
+				"children"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"page-c",
+				"page-template-contact-php"
+			],
+			[
+				"sel",
+				"selection	selection"
+			],
+			[
+				"s",
+				"selection	selection"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"bac",
+				"background	filter: AlphaImageLoader [for IE PNGs]"
+			],
+			[
+				"dis",
+				"display	display: inline"
+			],
+			[
+				"backgr",
+				"background	background-repeat: r/r-x/r-y/n-r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/scss/components/_global.scss",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/scss/components/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/scss/components/_navbar.scss",
+			"settings":
+			{
+				"buffer_size": 1253,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/html/components/navbar.php",
+			"settings":
+			{
+				"buffer_size": 1112,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"oack",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 610.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/websites/contour",
+		"/Applications/MAMP/websites/contour/assets",
+		"/Applications/MAMP/websites/contour/assets/css",
+		"/Applications/MAMP/websites/contour/assets/scss",
+		"/Applications/MAMP/websites/contour/bower_components",
+		"/Applications/MAMP/websites/contour/bower_components/Materialize",
+		"/Applications/MAMP/websites/contour/bower_components/Materialize/sass"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/websites/contour/index.php",
+		"/Applications/MAMP/websites/contour/assets/scss/main.scss",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/assets/styles/common/_global.scss",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/templates/header.php",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/assets/styles/common/_variables.scss",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/assets/styles/components/_gravityforms.scss",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/assets/styles/components/_buttons.scss",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/templates/content-page-home.php",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/snippet-plans.php",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/assets/styles/main.scss",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/assets/styles/layouts/_header.scss",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/assets/scripts/main.js",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/templates/footer.php",
+		"/Applications/MAMP/websites/latinbrothers/splash/scss/main.scss",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/bower.json",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/assets/styles/layouts/_home.scss",
+		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/style.css",
+		"/Applications/MAMP/websites/latinbrothers/index.html",
+		"/Applications/MAMP/websites/latinbrothers/scss/_splash.scss",
+		"/Applications/MAMP/websites/latinbrothers/sftp-config.json",
+		"/Applications/MAMP/websites/latinbrothers/scss/main.scss",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-page-about.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/template-contact-flex.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/tribe-events/list/content.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/archive-dining.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/tribe-events/list/loop.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/tribe-events/list/single-event.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/assets/styles/common/_global.scss",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/template-custom.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/plugins/the-events-calendar/src/views/list/loop.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/plugins/the-events-calendar/src/views/list.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-includes/theme-compat/header.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-page-flex.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/tribe-events/modules/bar.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/template-dining.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-page-dining.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-page-home.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/template-home.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-dining.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-single-dining.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/assets/scripts/main.js",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/assets/styles/layouts/_header.scss",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-page-gallery.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-includes/functions.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/lib/extras.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-page-dining-about.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/single-dining.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-press.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/lib/custom-types.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/archive-press.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/archive-rooms.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-rooms.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-single-rooms.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-page-rooms.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/template-rooms.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/template-room.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/template-press.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/single-rooms.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/templates/content-page-room.php",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/assets/styles/layouts/_home.scss",
+		"/Applications/MAMP/websites/william-vale-hotel/wp-content/themes/twv/lib/config.php",
+		"/Applications/MAMP/websites/echoingsoundz/sftp-config.json",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/header.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/music/echoingsoundz.oggvorbis.ogg",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/style.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/pages/wire.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/the-wire.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/brew/nav.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/single-wire.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/functions.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/js/waypoints.min.js",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/other/social.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/other/global.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/js/min/scripts-ck.js",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/other/_main.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/css/style.css",
+		"/Applications/MAMP/websites/echoingsoundz/echoingsoundz.sublime-project",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/js/scripts.js",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/other/fresco.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/pages/casestudy.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/page-case.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/single-case.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/archive-wire.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/sidebar.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-includes/theme-compat/sidebar.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/footer.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/page-home.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/bones.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-includes/theme-compat/header.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/snippets/snippet-contact.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/twentyfourteen/content-aside.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/other/_animate.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/brew/global.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/custom-variables.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/style.css",
+		"/Applications/MAMP/websites/echoingsoundz/sftp-config-alt.json",
+		"/Applications/MAMP/websites/echoingsoundz/wp-cron.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/single-the_wire.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/snippets/snippet-contact",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/other/login.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/css/login.css",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/other/KK - Instagram Accounts",
+		"/Users/dmitriybernasovskiy/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/dmitriybernasovskiy/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/websites/echoingsoundz/api/config.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/other/slick.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/page-home-2.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/page-home-backup.phpback",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/plugins/contact-form-7/admin/css/styles.css",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/js/svganimations.js",
+		"/Applications/MAMP/websites/echoingsoundz/wp-config.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/js/fitvid.js",
+		"/Applications/MAMP/websites/echoingsoundz/wp-includes/theme-compat/footer.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/brew/content.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/es-logo.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/page-home-backup.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/videos/esgomode.webmhd.webm",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/index.php",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/colors/_variables.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/_fullpage.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/font-awesome/scss/_variables.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/font-awesome/scss/font-awesome.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/font-awesome/scss/_list.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/bootstrap/_mixins.scss",
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/admin.php",
+		"/Applications/MAMP/websites/mihentertainment/sftp-config.json",
+		"/Applications/MAMP/websites/mihentertainment/wp-content/themes/mihentv2/library/scss/css/login.css",
+		"/Applications/MAMP/websites/mihentertainment/wp-content/themes/mihentv2/library/css/login.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"",
+			"spider-faq",
+			"",
+			"assets",
+			"film-post-type.php",
+			"movies-post-type.php",
+			"<current files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"padding-top: 18px;\n      padding-bottom: 17px;\n",
+			"   ",
+			"red",
+			"https:",
+			"plan",
+			"href=\"#\"",
+			"$red",
+			"button",
+			".gform_button",
+			"30px",
+			";\n",
+			"col-sm-3",
+			"h4",
+			"h1",
+			"active",
+			"4px",
+			"8px",
+			"h4",
+			"h3",
+			"Event",
+			"                  <div class=\"col-sm-4\">\n",
+			"div",
+			"quotes",
+			"<h3>",
+			"plan\">",
+			"plan",
+			" <div class=\"plan text-center\">",
+			"7px",
+			"border-rad",
+			"chevron-left",
+			"h4",
+			"View Details",
+			"Back to Packages",
+			"sweet16",
+			"wedding",
+			"8",
+			"0.8",
+			"30px",
+			"<div class=\"plan text-center\">",
+			"slide",
+			"contactModal",
+			"<a href=\"#\" class=\"thumbnail\">",
+			"<a href=\"#\">View Details</a>",
+			"md-3",
+			"<img src=\"...\" alt=\"...\">",
+			"colo",
+			"90px",
+			"max",
+			"<img class=\"img-responsive\" data-src=\"holder.js/600px300?auto=yes\">",
+			" plan-",
+			"plan-",
+			"bg-",
+			"\"plan\">",
+			"&:hover",
+			"background-color: ",
+			"$",
+			";\n",
+			"- ",
+			"h3",
+			"h4",
+			"- ",
+			"portfolio",
+			"h2",
+			"h3",
+			"abadi_mt_condensed_light_regular",
+			"30px",
+			"<p",
+			"scss */",
+			"animated",
+			"<div id=\"stuff\" class=\"box\">",
+			"<p><?php the_sub_field('wysiwyg'); ?></p>",
+			"            <?php elseif (get_row_layout() == 'book_now'): ?>\n                <div class=\"booking\">\n                  <?php get_template_part( 'templates/snippet-booking-vertical' ); ?>\n                </div>",
+			"url",
+			"image",
+			"<img src=\"<?php t",
+			"div",
+			"tribe-events-sub-nav",
+			"tribe-events-nav-previous",
+			"tribe-events-nav-previous tribe-events-nav-left tribe-events-past",
+			"tribe-events-page-title",
+			"h2",
+			"headerimg",
+			"column_1",
+			"gallery",
+			"portfolio",
+			"wpb_childpages",
+			"room_slider",
+			"amenities",
+			"$the_query->",
+			"query",
+			"Query",
+			"query",
+			"article",
+			"amenities",
+			"image",
+			"repeater_field_name",
+			"gallery",
+			"article",
+			"-title",
+			"arrow",
+			"fullpage",
+			"music",
+			"bluebrowne",
+			"media",
+			"media/bluebrowne",
+			"<?php the_permalink(); ?>",
+			"waypoint",
+			"the_wire",
+			"navbar",
+			"#content",
+			"url('sk",
+			"500",
+			"750",
+			"pane",
+			"tab",
+			"article-head",
+			"contact",
+			"toggle",
+			"padding",
+			"h3",
+			"'header'",
+			"highlight",
+			"collapseOne",
+			"pull-right",
+			"link",
+			"content",
+			"image",
+			"repeater_field_name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"169793",
+			"Sweat USA",
+			"film_cat",
+			"film",
+			"movies",
+			"Movie",
+			"css/walkway_semibold"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/scss/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/scss/components/_global.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/scss/components/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/scss/components/_navbar.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1227,
+								1227
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/html/components/navbar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								874,
+								874
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 522.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "contour.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"head",
+				"wp-content/themes/latinbrothers/templates/header.php"
+			],
+			[
+				"-home",
+				"wp-content/themes/latinbrothers/templates/content-page-home.php"
+			],
+			[
+				"_variabl",
+				"wp-content/themes/latinbrothers/assets/styles/common/_variables.scss"
+			],
+			[
+				"_grav",
+				"wp-content/themes/latinbrothers/assets/styles/components/_gravityforms.scss"
+			],
+			[
+				"_button",
+				"wp-content/themes/latinbrothers/assets/styles/components/_buttons.scss"
+			],
+			[
+				"main.sc",
+				"wp-content/themes/latinbrothers/assets/styles/main.scss"
+			],
+			[
+				"snipp",
+				"wp-content/themes/latinbrothers/snippet-plans.php"
+			],
+			[
+				"_he",
+				"wp-content/themes/latinbrothers/assets/styles/layouts/_header.scss"
+			],
+			[
+				"_gl",
+				"wp-content/themes/latinbrothers/assets/styles/common/_global.scss"
+			],
+			[
+				"main.j",
+				"wp-content/themes/latinbrothers/assets/scripts/main.js"
+			],
+			[
+				"main",
+				"wp-content/themes/latinbrothers/assets/scripts/main.js"
+			],
+			[
+				"bower.",
+				"wp-content/themes/latinbrothers/bower.json"
+			],
+			[
+				"_vari",
+				"wp-content/themes/latinbrothers/assets/styles/common/_variables.scss"
+			],
+			[
+				"sni",
+				"wp-content/themes/latinbrothers/snippet-plans.php"
+			],
+			[
+				"_hom",
+				"wp-content/themes/latinbrothers/assets/styles/layouts/_home.scss"
+			],
+			[
+				"foo",
+				"wp-content/themes/latinbrothers/templates/footer.php"
+			],
+			[
+				"_var",
+				"wp-content/themes/latinbrothers/assets/styles/common/_variables.scss"
+			],
+			[
+				"_head",
+				"wp-content/themes/latinbrothers/assets/styles/layouts/_header.scss"
+			],
+			[
+				"main.js",
+				"wp-content/themes/latinbrothers/assets/scripts/main.js"
+			],
+			[
+				"_glob",
+				"wp-content/themes/latinbrothers/assets/styles/common/_global.scss"
+			],
+			[
+				"header",
+				"wp-content/themes/latinbrothers/templates/header.php"
+			],
+			[
+				"room",
+				"wp-content/themes/twv/templates/content-single-rooms.php"
+			],
+			[
+				"base",
+				"wp-content/themes/twv/base.php"
+			],
+			[
+				"-about",
+				"wp-content/themes/twv/templates/content-page-about.php"
+			],
+			[
+				"dining",
+				"wp-content/themes/twv/archive-dining.php"
+			],
+			[
+				"page-f",
+				"wp-content/themes/twv/templates/content-page-flex.php"
+			],
+			[
+				"fun",
+				"wp-includes/functions.php"
+			],
+			[
+				"ex",
+				"wp-content/themes/twv/lib/extras.php"
+			],
+			[
+				"extras.",
+				"wp-content/themes/twv/lib/extras.php"
+			],
+			[
+				"page-fl",
+				"wp-content/themes/twv/templates/content-page-flex.php"
+			],
+			[
+				"-room",
+				"wp-content/themes/twv/templates/content-page-room.php"
+			],
+			[
+				"-rooms",
+				"wp-content/themes/twv/templates/content-page-rooms.php"
+			],
+			[
+				"_home",
+				"wp-content/themes/twv/assets/styles/layouts/_home.scss"
+			],
+			[
+				"_glo",
+				"wp-content/themes/twv/assets/styles/common/_global.scss"
+			],
+			[
+				"sf",
+				"sftp-config.json"
+			],
+			[
+				"home",
+				"wp-content/themes/echoingsoundz/page-home.php"
+			],
+			[
+				"page-",
+				"wp-content/themes/echoingsoundz/page-home.php"
+			],
+			[
+				"page-home",
+				"wp-content/themes/echoingsoundz/page-home.php"
+			],
+			[
+				"style.c",
+				"wp-content/themes/echoingsoundz/library/css/style.css"
+			],
+			[
+				"scri",
+				"wp-content/themes/echoingsoundz/library/js/scripts.js"
+			],
+			[
+				"soc",
+				"wp-content/themes/echoingsoundz/library/scss/other/social.scss"
+			],
+			[
+				"single",
+				"wp-content/themes/echoingsoundz/single-wire.php"
+			],
+			[
+				"single-w",
+				"wp-content/themes/echoingsoundz/single-wire.php"
+			],
+			[
+				"funct",
+				"wp-content/themes/echoingsoundz/functions.php"
+			],
+			[
+				"way",
+				"wp-content/themes/echoingsoundz/library/js/waypoints.min.js"
+			],
+			[
+				"scrip",
+				"wp-content/themes/echoingsoundz/library/js/scripts.js"
+			],
+			[
+				"script",
+				"wp-content/themes/echoingsoundz/library/js/scripts.js"
+			],
+			[
+				"wire",
+				"wp-content/themes/echoingsoundz/library/the-wire.php"
+			],
+			[
+				"func",
+				"wp-content/themes/echoingsoundz/functions.php"
+			],
+			[
+				"nav.",
+				"wp-content/themes/echoingsoundz/library/scss/brew/nav.scss"
+			],
+			[
+				"scr",
+				"wp-content/themes/echoingsoundz/library/js/scripts.js"
+			],
+			[
+				"fresc",
+				"wp-content/themes/echoingsoundz/library/scss/other/fresco.scss"
+			],
+			[
+				"sft",
+				"sftp-config.json"
+			],
+			[
+				"style",
+				"wp-content/themes/echoingsoundz/library/scss/style.scss"
+			],
+			[
+				"",
+				"wp-content/themes/echoingsoundz/library/scss/pages/wire.scss"
+			],
+			[
+				"wire.",
+				"wp-content/themes/echoingsoundz/library/scss/pages/wire.scss"
+			],
+			[
+				"single-we",
+				"wp-content/themes/echoingsoundz/single-wire.php"
+			],
+			[
+				"single-c",
+				"wp-content/themes/echoingsoundz/single-case.php"
+			],
+			[
+				"case",
+				"wp-content/themes/echoingsoundz/page-case.php"
+			],
+			[
+				"cas",
+				"wp-content/themes/echoingsoundz/library/scss/pages/casestudy.scss"
+			],
+			[
+				"single-",
+				"wp-content/themes/echoingsoundz/single-case.php"
+			],
+			[
+				"sideba",
+				"wp-content/themes/echoingsoundz/sidebar.php"
+			],
+			[
+				"sidebar",
+				"wp-includes/theme-compat/sidebar.php"
+			],
+			[
+				"archive",
+				"wp-content/themes/echoingsoundz/archive-wire.php"
+			],
+			[
+				"ar",
+				"wp-content/themes/echoingsoundz/archive-wire.php"
+			],
+			[
+				"global",
+				"wp-content/themes/echoingsoundz/library/scss/other/global.scss"
+			],
+			[
+				"global.sc",
+				"wp-content/themes/echoingsoundz/library/scss/other/global.scss"
+			],
+			[
+				"footer",
+				"wp-content/themes/echoingsoundz/footer.php"
+			],
+			[
+				"arch",
+				"wp-content/themes/echoingsoundz/archive-wire.php"
+			],
+			[
+				"function",
+				"wp-content/themes/echoingsoundz/functions.php"
+			],
+			[
+				"the-w",
+				"wp-content/themes/echoingsoundz/library/the-wire.php"
+			],
+			[
+				"cont",
+				"wp-content/themes/echoingsoundz/snippets/snippet-contact.php"
+			],
+			[
+				"page-hom",
+				"wp-content/themes/echoingsoundz/page-home.php"
+			],
+			[
+				"contact",
+				"wp-content/themes/echoingsoundz/snippets/snippet-contact.php"
+			],
+			[
+				"bones.",
+				"wp-content/themes/echoingsoundz/library/bones.php"
+			],
+			[
+				"anima",
+				"wp-content/themes/echoingsoundz/library/scss/other/_animate.scss"
+			],
+			[
+				"custom-v",
+				"wp-content/themes/echoingsoundz/library/scss/custom-variables.scss"
+			],
+			[
+				"nav.sc",
+				"wp-content/themes/echoingsoundz/library/scss/brew/nav.scss"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"globa",
+				"wp-content/themes/echoingsoundz/library/scss/other/global.scss"
+			],
+			[
+				"sc",
+				"wp-content/themes/echoingsoundz/library/js/scripts.js"
+			],
+			[
+				"bones",
+				"wp-content/themes/echoingsoundz/library/bones.php"
+			],
+			[
+				"sty",
+				"wp-content/themes/echoingsoundz/library/scss/style.scss"
+			],
+			[
+				"global.scss",
+				"wp-content/themes/echoingsoundz/library/scss/other/global.scss"
+			],
+			[
+				"style.sc",
+				"wp-content/themes/echoingsoundz/library/scss/style.scss"
+			],
+			[
+				"login.sc",
+				"wp-content/themes/echoingsoundz/library/scss/other/login.scss"
+			],
+			[
+				"svg",
+				"wp-content/themes/echoingsoundz/library/js/svganimations.js"
+			],
+			[
+				"fitv",
+				"wp-content/themes/echoingsoundz/library/js/fitvid.js"
+			],
+			[
+				"style.scss",
+				"wp-content/themes/echoingsoundz/library/scss/style.scss"
+			],
+			[
+				"page-h",
+				"wp-content/themes/echoingsoundz/page-home-2.php"
+			],
+			[
+				"style.css",
+				"wp-content/themes/echoingsoundz/library/css/style.css"
+			],
+			[
+				"page",
+				"wp-content/themes/echoingsoundz/page-home.php"
+			],
+			[
+				"scripts",
+				"wp-content/themes/echoingsoundz/library/js/scripts.js"
+			],
+			[
+				"mixin",
+				"wp-content/themes/echoingsoundz/library/scss/bootstrap/_mixins.scss"
+			],
+			[
+				"_main",
+				"wp-content/themes/echoingsoundz/library/scss/other/_main.scss"
+			],
+			[
+				"foot",
+				"wp-includes/theme-compat/footer.php"
+			],
+			[
+				"custom-va",
+				"wp-content/themes/mihentv2/library/scss/custom-variables.scss"
+			],
+			[
+				"brew",
+				"wp-content/themes/mihentv2/library/brew.php"
+			],
+			[
+				"ingle",
+				"wp-content/themes/mihentv2/single.php"
+			],
+			[
+				"single-a",
+				"wp-content/themes/mihentv2/single-artists.php"
+			],
+			[
+				"sing",
+				"wp-content/themes/mihentv2/single.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"_flex",
+				"wp-content/themes/mihentv2/library/scss/other/_flexslider.scss"
+			],
+			[
+				"scrips",
+				"wp-content/themes/echoingsoundz_v2/library/js/scripts.js"
+			],
+			[
+				"_fle",
+				"wp-content/themes/echoingsoundz_v2/library/scss/_flexslider.scss"
+			],
+			[
+				"functi",
+				"wp-content/themes/echoingsoundz_v2/functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "lab",
+		"selected_items":
+		[
+			[
+				"lab",
+				"/Applications/MAMP/websites/labeautyguide/labeautyguidepshd.sublime-project"
+			],
+			[
+				"lee",
+				"/Applications/MAMP/websites/leeenglandjr/leeenglandjr.sublime-project"
+			],
+			[
+				"labea",
+				"~/Work/Clients/Angel Brinks/shopify/angelbrinks-v2.sublime-project"
+			],
+			[
+				"sted",
+				"/Applications/MAMP/websites/sted-e/sted-e.sublime-project"
+			],
+			[
+				"lea",
+				"/Applications/MAMP/websites/labeautyguide/labeautyguidepshd.sublime-project"
+			],
+			[
+				"coss",
+				"/Users/dmitriybernasovskiy/Work/Clients/CossaMia/shopify/cossamia.sublime-project"
+			],
+			[
+				"pop",
+				"/Applications/MAMP/websites/populationconnection/populationconnection.sublime-project"
+			],
+			[
+				"cand",
+				"/Applications/MAMP/websites/candyland/candyland.sublime-project"
+			],
+			[
+				"king",
+				"/Applications/MAMP/websites/kinglilg/kinglilg.sublime-project"
+			],
+			[
+				"can",
+				"/Applications/MAMP/websites/candyland/candyland.sublime-project"
+			],
+			[
+				"",
+				"/Applications/MAMP/websites/gomode/gomode.sublime-project"
+			],
+			[
+				"ni",
+				"/Applications/MAMP/websites/nikkiyanofsky2/nikkiyanofsky2.sublime-project"
+			],
+			[
+				"gov",
+				"/Applications/MAMP/websites/govevo-final/govevo-final.sublime-project"
+			],
+			[
+				"jui",
+				"/Applications/MAMP/websites/juice/juice.sublime-project"
+			],
+			[
+				"andre",
+				"/Applications/MAMP/websites/andreasvarady/andreasvarady.sublime-project"
+			],
+			[
+				"liz",
+				"/Applications/MAMP/websites/liziv2/lizafv2.sublime-project"
+			],
+			[
+				"djno",
+				"/Applications/MAMP/websites/djnorie/djnorie.sublime-project"
+			],
+			[
+				"za",
+				"/Applications/MAMP/websites/zabmusic/zabmusic.sublime-project"
+			],
+			[
+				"kov",
+				"/Applications/MAMP/websites/kovethospitality/kovethospitality.sublime-project"
+			],
+			[
+				"nik",
+				"/Applications/MAMP/websites/nikkiyanofsky2/nikkiyanofsky2.sublime-project"
+			],
+			[
+				"ko",
+				"/Applications/MAMP/websites/willtorrez/wp-content/themes/kovethospitality/kovethospitality.sublime-project"
+			],
+			[
+				"thev",
+				"/Users/dmitriybernasovskiy/Work/Clients/The Vintage Hue/Website/thevintagehue.sublime-project"
+			],
+			[
+				"new",
+				"/Applications/MAMP/websites/newagecomputers/newagecomputers.sublime-project"
+			],
+			[
+				"djn",
+				"/Applications/MAMP/websites/djnorie/djnorie.sublime-project"
+			],
+			[
+				"chance",
+				"/Applications/MAMP/websites/chance/chanestudios.sublime-project"
+			],
+			[
+				"nikk",
+				"/Applications/MAMP/websites/nikkiyanofsky2/nikkiyanofsky2.sublime-project"
+			],
+			[
+				"nori",
+				"/Applications/MAMP/websites/djnorie/djnorie.sublime-project"
+			],
+			[
+				"djni",
+				"/Applications/MAMP/websites/djnorie/djnorie.sublime-project"
+			],
+			[
+				"cha",
+				"/Applications/MAMP/websites/chance/chanestudios.sublime-project"
+			],
+			[
+				"run",
+				"/Applications/MAMP/websites/runamuk-responsive/runamuk-responsive.sublime-project"
+			],
+			[
+				"st",
+				"/Applications/MAMP/websites/strinh/strinh.sublime-project"
+			],
+			[
+				"sr",
+				"/Users/dmitriybernasovskiy/Work/Clients/String Theory Distribution/Website/wp-content/std.sublime-project"
+			],
+			[
+				"gig",
+				"/Applications/MAMP/websites/gigirowe/gigirowe.sublime-project"
+			],
+			[
+				"mi",
+				"/Applications/MAMP/websites/mih/mih.sublime-project"
+			],
+			[
+				"std",
+				"/Applications/MAMP/websites/streamlined-entertainment/streamlined-entertainment.sublime-project"
+			],
+			[
+				"ha",
+				"/Applications/MAMP/websites/djjayhamilton/hamilton.sublime-project"
+			],
+			[
+				"be",
+				"/Applications/MAMP/websites/beautybyaudrey/beautybyaudrey.sublime-project"
+			],
+			[
+				"rosa",
+				"/Applications/MAMP/websites/rosaacosta/rosaacosta.sublime-project"
+			],
+			[
+				"thep",
+				"/Users/dimka/Work/Clients/The Presidential Sweet/Website/thepresidentialsweet.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

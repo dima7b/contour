@@ -1,0 +1,77 @@
+nav {
+
+    @media #{$medium-and-up} {
+      height: 74px;
+      line-height: 55px;
+    }
+
+  .nav-wrapper {
+
+    @media #{$medium-and-up} { height: 74px; }
+
+    ul {
+
+      // padding-top: 18px;
+      // padding-bottom: 17px;
+
+      @media #{$medium-and-up} {
+        padding-top: 10px;
+      }
+
+      li {
+        a {
+          padding-left: 40px;
+          color: $rgba;
+          font-size: 1.2rem;
+
+          &:hover {
+            background-color: transparent;
+          }
+        }
+
+        &.active {
+          background-color: transparent;
+          a { color: #FFF; }
+        }
+
+        &.apps {
+          i {
+            display: inline-block;
+            vertical-align: middle;
+          }
+        }
+
+        &:first-child {
+          a { padding-left: 20px; }
+        }
+      }
+    }
+
+    form {
+
+      .input-field { width: calc(200%); }
+      margin-left: 50px;
+      ::-webkit-input-placeholder { color: $rgba; }
+      :-moz-placeholder { /* Firefox 18- */ color: $rgba; }
+      ::-moz-placeholder {  /* Firefox 19+ */ color: $rgba; }
+      :-ms-input-placeholder { color: $rgba; }
+
+      #search {
+    // padding-top: 18px;
+    //   padding-bottom: 17px;
+        border-radius: 20px;
+        background-color: $rgba;
+      }
+
+      label {
+        i { color: $rgba; }
+      }
+
+      i {
+        line-height: 58px;
+      }
+    }
+
+  }
+}
+
