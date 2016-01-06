@@ -8528,18 +8528,43 @@ body {
   font-size: 18px;
   background-color: #e9e7e7; }
 
-.container {
-  max-width: 665px; }
+.gray {
+  color: #c0c0c0; }
 
 .empty {
   background-color: #f4f4f4; }
 
-.collection {
-  border-width: 0px;
+.container {
+  max-width: 750px; }
+
+.collection-wrapper {
   margin-top: 85px; }
+
+.collection {
+  border-width: 0px; }
+  .collection.expanded {
+    padding: 10px 40px 20px;
+    background-color: #d4d3d3; }
+    .collection.expanded .sub-title {
+      color: #909094; }
+  .collection .collection-item .row {
+    margin-bottom: 0px; }
   .collection .collection-item.empty {
     color: #bcbcbc;
-    background-color: rgba(0, 0, 0, 0.05); }
+    background-color: #f4f4f4; }
+  .collection .collection-item.typing {
+    background-color: #FFFFFF; }
+  .collection .collection-item .being-typed {
+    color: rgba(188, 188, 188, 0.3); }
+    .collection .collection-item .being-typed span {
+      color: #311b92;
+      font-weight: bold; }
+  .collection .collection-item .details {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #c0c0c0; }
+  .collection .collection-item .material-icons {
+    color: #c0c0c0; }
 
 @media only screen and (min-width: 601px) {
   nav {
@@ -8573,6 +8598,10 @@ nav .nav-wrapper ul li.apps i {
 nav .nav-wrapper ul li:first-child a {
   padding-left: 20px; }
 
+nav .nav-wrapper i.material-icons {
+  display: inline-block;
+  line-height: 58px; }
+
 nav .nav-wrapper form {
   margin-left: 50px; }
   nav .nav-wrapper form .input-field {
@@ -8592,7 +8621,8 @@ nav .nav-wrapper form {
     background-color: rgba(0, 0, 0, 0.2); }
   nav .nav-wrapper form label i {
     color: rgba(0, 0, 0, 0.2); }
-  nav .nav-wrapper form i {
+  nav .nav-wrapper form i.material-icons {
+    display: inline-block;
     line-height: 58px; }
 
 /*# sourceMappingURL=main.css.map */

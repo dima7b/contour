@@ -47,6 +47,11 @@ nav {
       }
     }
 
+    i.material-icons {
+      display: inline-block;
+      line-height: 58px;
+    }
+
     form {
 
       .input-field { width: calc(200%); }
@@ -67,7 +72,8 @@ nav {
         i { color: $rgba; }
       }
 
-      i {
+      i.material-icons {
+        display: inline-block;
         line-height: 58px;
       }
     }

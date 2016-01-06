@@ -16,13 +16,102 @@
 
 
   <div class="container">
+    <div class="collection-wrapper">
 
-    <ul class="collection z-depth-1">
-      <li class="collection-item empty">
-        <p>Start typing or tap to add Material Category</p>
-      </li>
-    </ul>
+      <!-- Empty -->
+      <ul class="collection z-depth-1">
+        <li class="collection-item empty">
+          <div class="row">
+            <div class="col s8">
+              <p>Start typing or tap to add Material Category</p>
+            </div>
+          </div>
+        </li>
+      </ul>
 
+      <!-- When Typing -->
+      <ul class="collection z-depth-1">
+        <li class="collection-item typing">
+          <div class="row">
+            <div class="col s8">
+              <p>Baluste|</p>
+            </div>
+            <div class="col s4 right-align">
+              <p class="being-typed">Tap enter when <span>DONE</span></p>
+            </div>
+          </div>
+        </li>
+      </ul>
+
+      <!-- To expand -->
+      <ul class="collection z-depth-1">
+        <li class="collection-item typing">
+          <div class="row">
+            <div class="col s8">
+              <p>Baluste|</p>
+            </div>
+            <div class="col s4 right-align">
+              <p class="being-typed">+ details</p>
+            </div>
+          </div>
+        </li>
+        <li class="collection-item empty">
+          <div class="row">
+            <div class="col s8">
+              <p>Start typing or tap to add a sub-material…</p>
+            </div>
+          </div>
+        </li>
+      </ul>
+
+      <!-- Expanded -->
+      <ul class="collection expanded z-depth-1">
+        <p class="sub-title"><strong>Baluste</strong></p>
+        <li class="collection-item z-depth-1">
+          <div class="row">
+            <div class="col s8">
+              <p>5015-36|</p>
+            </div>
+            <div class="col s4 right-align">
+              <p class="being-typed">Tap enter when <span>DONE</span></p>
+            </div>
+          </div>
+        </li>
+      </ul>
+
+      <!-- Expanded Pt. 2 -->
+      <ul class="collection expanded z-depth-1">
+        <p class="sub-title"><strong>6010 Round</strong></p>
+        <li class="collection-item z-depth-1">
+
+          <div class="row">
+            <div class="col s8">
+              <a href="#"><i class="material-icons">close</i></a>
+            </div>
+            <div class="col s4 right-align">
+              <a href="#"><i class="material-icons">insert_link</i></a>
+              <a href="#"><i class="material-icons">done</i></a>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="details col s12">
+              <p class="gray">Broken down as:</p>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="details col s12">
+              <p class="gray">Measured by:</p>
+            </div>
+          </div>
+
+        </li>
+
+      </ul>
+
+
+    </div>
   </div>
 
 

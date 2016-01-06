@@ -3,20 +3,51 @@ body {
   background-color: #e9e7e7;
 }
 
-.container {
-  max-width: 665px;
-}
+.gray { color: $gray; }
 
 .empty { background-color: #f4f4f4; }
 
+.container { max-width: 750px; }
+
+.collection-wrapper { margin-top: 85px; }
+
 .collection {
   border-width: 0px;
-  margin-top: 85px;
+
+  &.expanded {
+    padding: 10px 40px 20px;
+    background-color: #d4d3d3;
+
+    .sub-title { color: #909094; }
+  }
 
   .collection-item {
+    .row { margin-bottom: 0px; }
+
     &.empty {
       color: #bcbcbc;
-      background-color: rgba(0, 0, 0, 0.05);
+      background-color: #f4f4f4;
     }
+
+    &.typing {
+      background-color: #FFFFFF;
+    }
+
+    .being-typed {
+      color: rgba(188, 188, 188, 0.3);
+
+      span {
+        color: #311b92;
+        font-weight: bold;
+      }
+    }
+
+    .details {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid $gray;
+    }
+
+    .material-icons { color: $gray; }
   }
 }
