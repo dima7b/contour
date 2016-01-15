@@ -4,7 +4,7 @@
     <ul class="left hide-on-med-and-down">
       <li class="active"><a href="#"># Orders</a></li>
       <li><a href="#">/ Products</a></li>
-      <li><a href="materials.php">[ Materials</a></li>
+      <li><a href="materials-flow-1.php">[ Materials</a></li>
       <li><?php include 'assets/html/components/navbar-searchbar.php' ?></li>
     </ul>
 
