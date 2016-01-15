@@ -18,7 +18,7 @@
   <div class="container">
     <div class="collection-wrapper">
 
-      <!-- Empty -->
+      <!-- Materials FLow 1 -->
       <ul class="collection z-depth-1">
         <li class="collection-item empty">
           <div class="row">
@@ -29,12 +29,12 @@
         </li>
       </ul>
 
-      <!-- When Typing -->
+      <!-- Materials FLow 2 -->
       <ul class="collection z-depth-1">
         <li class="collection-item typing">
           <div class="row">
             <div class="col s8">
-              <p>Baluste|</p>
+              <p>Balusters|</p>
             </div>
             <div class="col s4 right-align">
               <p class="being-typed">Tap enter when <span>DONE</span></p>
@@ -43,12 +43,12 @@
         </li>
       </ul>
 
-      <!-- To expand -->
+      <!-- Materials FLow 17 -->
       <ul class="collection z-depth-1">
         <li class="collection-item typing">
           <div class="row">
             <div class="col s8">
-              <p>Baluste|</p>
+              <p>Balusters|</p>
             </div>
             <div class="col s4 right-align">
               <p class="being-typed">+ details</p>
@@ -64,9 +64,9 @@
         </li>
       </ul>
 
-      <!-- Expanded -->
+      <!-- Materials FLow 4 -->
       <ul class="collection expanded z-depth-1">
-        <p class="sub-title"><strong>Baluste</strong></p>
+        <p class="sub-title"><strong>Balusters</strong></p>
         <li class="collection-item z-depth-1">
           <div class="row">
             <div class="col s8">
@@ -79,12 +79,12 @@
         </li>
       </ul>
 
-      <!-- Expanded Pt. 2 -->
+      <!-- Materials FLow 18 -->
       <ul class="collection expanded z-depth-1">
         <p class="sub-title"><strong>6010 Round</strong></p>
-        <li class="collection-item z-depth-1">
+        <li class="collection-item collection-item-expanded z-depth-1">
 
-          <div class="row">
+          <div class="row row-header">
             <div class="col s8">
               <a href="#"><i class="material-icons">close</i></a>
             </div>
@@ -96,20 +96,98 @@
 
           <div class="row">
             <div class="details col s12">
-              <p class="gray">Broken down as:</p>
+              <div class="row">
+                <div class="col s3">
+                  <p class="gray">Broken down as:</p>
+                </div>
+                <div class="col s4">
+                  <p>Fractions</p>
+                </div>
+              </div>
             </div>
           </div>
 
           <div class="row">
             <div class="details col s12">
-              <p class="gray">Measured by:</p>
+              <div class="row">
+                <div class="col s3">
+                  <p class="gray">Measured by:</p>
+                </div>
+                <div class="col s4">
+                  <p>Feet</p>
+                </div>
+              </div>
             </div>
           </div>
 
-        </li>
+          <div class="row">
+          <ul class="collection expanded sub-details">
+            <li>
+              <div class="row">
+                <div class="col s4">
+                  <p class="gray">Fractions of:</p>
+                </div>
+                <div class="col s1"><p class="unit">1</p></div>
+                <div class="col s1"><p class="unit">1/2</p></div>
+                <div class="col s1"><p class="unit">1/4</p></div>
+                <div class="col s1"><p class="unit">1/10</p></div>
+                <div class="col s1"><p class="unit">1/12</p></div>
+              </div>
+            </li>
+            <li>
+              <div class="row">
+                <div class="col s6">
+                  <p class="gray">Maximum measurement of</p>
+                </div>
+                <div class="col s1"><p>ft</p></div>
+              </div>
+            </li>
+            <li>
+              <div class="row">
+                <div class="col s6">
+                  <p class="gray">Minimum measurement of</p>
+                </div>
+                <div class="col s1"><p>ft</p></div>
+              </div>
+            </li>
+          </ul>
+          </div>
 
+        </li>
       </ul>
 
+      <!-- Materials FLow 6 -->
+      <ul class="collection expanded z-depth-1">
+        <p class="sub-title"><strong>6010 Round</strong></p>
+        <li class="collection-item collection-item-expanded z-depth-1">
+
+          <div class="row">
+            <ul class="collection expanded sub-details">
+              <li class="collection-item typing">
+                <div class="row">
+                  <div class="col s8">
+                    <p>Balusters|</p>
+                  </div>
+                  <div class="col s4 right-align">
+                    <p class="being-typed">+ details</p>
+                  </div>
+                </div>
+              </li>
+              <li class="collection-item typing">
+                <div class="row">
+                  <div class="col s8">
+                    <p>Balusters|</p>
+                  </div>
+                  <div class="col s4 right-align">
+                    <p class="being-typed">Tap enter when <span>DONE</span></p>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+        </li>
+      </ul>
 
     </div>
   </div>

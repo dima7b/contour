@@ -4,14 +4,12 @@ body {
 }
 
 .gray { color: $gray; }
-
 .empty { background-color: #f4f4f4; }
-
 .container { max-width: 750px; }
-
 .collection-wrapper { margin-top: 85px; }
 
 .collection {
+
   border-width: 0px;
 
   &.expanded {
@@ -22,7 +20,25 @@ body {
   }
 
   .collection-item {
-    .row { margin-bottom: 0px; }
+    padding-bottom: 0px;
+    padding-left: 11px;
+    padding-right: 11px;
+
+    &.collection-item-expanded { margin-bottom: 20px; }
+
+    .row {
+      margin-bottom: 0px;
+
+      &.row-header {
+        padding-bottom: 10px;
+        border-bottom: 1px solid $gray;
+
+        .material-icons {
+          padding-right: 20px;
+          font-size: 28px;
+        }
+      }
+    }
 
     &.empty {
       color: #bcbcbc;
@@ -43,11 +59,29 @@ body {
     }
 
     .details {
-      padding-top: 10px;
-      padding-bottom: 10px;
+      padding: 20px;
       border-bottom: 1px solid $gray;
     }
 
     .material-icons { color: $gray; }
+  }
+
+  .sub-details {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    color: $gray;
+    background-color: #f4f4f4;
+
+    li {
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid $gray;
+
+      &:last-child { border-bottom: 0px; }
+
+      .unit { color: #037aff; }
+    }
   }
 }

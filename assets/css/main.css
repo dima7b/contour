@@ -8547,24 +8547,50 @@ body {
     background-color: #d4d3d3; }
     .collection.expanded .sub-title {
       color: #909094; }
-  .collection .collection-item .row {
-    margin-bottom: 0px; }
-  .collection .collection-item.empty {
-    color: #bcbcbc;
+  .collection .collection-item {
+    padding-bottom: 0px;
+    padding-left: 11px;
+    padding-right: 11px; }
+    .collection .collection-item.collection-item-expanded {
+      margin-bottom: 20px; }
+    .collection .collection-item .row {
+      margin-bottom: 0px; }
+      .collection .collection-item .row.row-header {
+        padding-bottom: 10px;
+        border-bottom: 1px solid #c0c0c0; }
+        .collection .collection-item .row.row-header .material-icons {
+          padding-right: 20px;
+          font-size: 28px; }
+    .collection .collection-item.empty {
+      color: #bcbcbc;
+      background-color: #f4f4f4; }
+    .collection .collection-item.typing {
+      background-color: #FFFFFF; }
+    .collection .collection-item .being-typed {
+      color: rgba(188, 188, 188, 0.3); }
+      .collection .collection-item .being-typed span {
+        color: #311b92;
+        font-weight: bold; }
+    .collection .collection-item .details {
+      padding: 20px;
+      border-bottom: 1px solid #c0c0c0; }
+    .collection .collection-item .material-icons {
+      color: #c0c0c0; }
+  .collection .sub-details {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    color: #c0c0c0;
     background-color: #f4f4f4; }
-  .collection .collection-item.typing {
-    background-color: #FFFFFF; }
-  .collection .collection-item .being-typed {
-    color: rgba(188, 188, 188, 0.3); }
-    .collection .collection-item .being-typed span {
-      color: #311b92;
-      font-weight: bold; }
-  .collection .collection-item .details {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #c0c0c0; }
-  .collection .collection-item .material-icons {
-    color: #c0c0c0; }
+    .collection .sub-details li {
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #c0c0c0; }
+      .collection .sub-details li:last-child {
+        border-bottom: 0px; }
+      .collection .sub-details li .unit {
+        color: #037aff; }
 
 @media only screen and (min-width: 601px) {
   nav {
