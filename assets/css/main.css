@@ -8547,6 +8547,8 @@ body {
     background-color: #d4d3d3; }
     .collection.expanded .sub-title {
       color: #909094; }
+    .collection.expanded > .expanded {
+      background-color: #c2c0c0; }
   .collection .collection-item {
     padding-bottom: 0px;
     padding-left: 11px;

@@ -6,8 +6,8 @@
     </ul>
 
     <ul class="right hide-on-med-and-down">
-      <li class="apps"><a href="#"><i class="large material-icons">done</i> Details</a></li>
-      <li class="apps"><a href="#"><i class="large material-icons">gps_off</i> Saved</a></li>
+      <li class="apps"><a href="#"><i class="large material-icons">gps_off</i> Details</a></li>
+      <li class="apps"><a href="#"><i class="large material-icons">done</i> Saved</a></li>
     </ul>
 
     <ul id="nav-mobile" class="side-nav">
