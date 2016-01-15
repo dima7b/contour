@@ -3,7 +3,6 @@
     <!-- <a id="logo-container" href="#" class="brand-logo">Logo</a> -->
     <ul class="left hide-on-med-and-down">
       <li class="active"><a href="/index.php"><i class="large material-icons">keyboard_arrow_left</i> Editing Materials</a></li>
-
     </ul>
 
     <ul class="right hide-on-med-and-down">
