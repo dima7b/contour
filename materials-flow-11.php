@@ -27,9 +27,9 @@
             </div>
             <div class="col s4 right-align">
               <p class="being-typed">
-                <i class="material-icons">wallpaper</i></a>
-                <i class="material-icons">restore</i></a>
-                <i class="material-icons">create</i></a>
+                <i class="material-icons">wallpaper</i>
+                <i class="material-icons">restore</i>
+                <i class="material-icons">create</i>
               </p>
             </div>
           </div>
