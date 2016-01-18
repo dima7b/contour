@@ -8604,6 +8604,7 @@ body {
 
 @media only screen and (min-width: 601px) {
   nav .nav-wrapper {
+    padding-right: 30px;
     height: 74px; } }
 
 @media only screen and (min-width: 601px) {
@@ -8611,7 +8612,7 @@ body {
     padding-top: 10px; } }
 
 nav .nav-wrapper ul li a {
-  padding-left: 40px;
+  padding-left: 20px;
   color: rgba(0, 0, 0, 0.2);
   font-size: 1.2rem; }
   nav .nav-wrapper ul li a:hover {
@@ -8623,20 +8624,17 @@ nav .nav-wrapper ul li.active {
     color: #FFF; }
 
 nav .nav-wrapper ul li.apps i {
-  display: inline-block;
-  vertical-align: middle; }
-
-nav .nav-wrapper ul li:first-child a {
-  padding-left: 20px; }
+  display: inline-block; }
 
 nav .nav-wrapper i.material-icons {
+  position: relative;
+  top: 9px;
   display: inline-block;
-  line-height: 58px; }
+  line-height: 1;
+  height: 28px; }
 
 nav .nav-wrapper form {
   margin-left: 50px; }
-  nav .nav-wrapper form .input-field {
-    width: calc(200%); }
   nav .nav-wrapper form ::-webkit-input-placeholder {
     color: rgba(0, 0, 0, 0.2); }
   nav .nav-wrapper form :-moz-placeholder {
@@ -8647,6 +8645,8 @@ nav .nav-wrapper form {
     color: rgba(0, 0, 0, 0.2); }
   nav .nav-wrapper form :-ms-input-placeholder {
     color: rgba(0, 0, 0, 0.2); }
+  nav .nav-wrapper form .input-field {
+    width: calc(200%); }
   nav .nav-wrapper form #search {
     border-radius: 20px;
     background-color: rgba(0, 0, 0, 0.2); }

@@ -7,20 +7,17 @@ nav {
 
   .nav-wrapper {
 
-    @media #{$medium-and-up} { height: 74px; }
+    @media #{$medium-and-up} {
+      padding-right: 30px;
+      height: 74px;
+    }
 
     ul {
-
-      // padding-top: 18px;
-      // padding-bottom: 17px;
-
-      @media #{$medium-and-up} {
-        padding-top: 10px;
-      }
+      @media #{$medium-and-up} { padding-top: 10px; }
 
       li {
         a {
-          padding-left: 40px;
+          padding-left: 20px;
           color: $rgba;
           font-size: 1.2rem;
 
@@ -35,35 +32,34 @@ nav {
         }
 
         &.apps {
-          i {
-            display: inline-block;
-            vertical-align: middle;
-          }
+          i { display: inline-block; }
         }
 
         &:first-child {
-          a { padding-left: 20px; }
+          // a { padding-left: 20px; }
         }
       }
     }
 
     i.material-icons {
+      position: relative;
+      top: 9px;
       display: inline-block;
-      line-height: 58px;
+      line-height: 1;
+      height: 28px;
     }
 
     form {
 
-      .input-field { width: calc(200%); }
       margin-left: 50px;
       ::-webkit-input-placeholder { color: $rgba; }
       :-moz-placeholder { /* Firefox 18- */ color: $rgba; }
       ::-moz-placeholder {  /* Firefox 19+ */ color: $rgba; }
       :-ms-input-placeholder { color: $rgba; }
 
+      .input-field { width: calc(200%); }
+
       #search {
-    // padding-top: 18px;
-    //   padding-bottom: 17px;
         border-radius: 20px;
         background-color: $rgba;
       }
