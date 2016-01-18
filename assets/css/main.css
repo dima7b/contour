@@ -8594,6 +8594,9 @@ body {
       .collection .sub-details li .unit {
         color: #037aff; }
 
+.right-align .material-icons {
+  padding-left: 30px; }
+
 @media only screen and (min-width: 601px) {
   nav {
     height: 74px;
