@@ -8540,6 +8540,11 @@ body {
 .collection-wrapper {
   margin-top: 85px; }
 
+.collection-wrapper > .collection > .collection-item .row {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 13px; }
+
 .collection {
   border-width: 0px; }
   .collection.expanded {
@@ -8650,6 +8655,8 @@ nav .nav-wrapper form {
   nav .nav-wrapper form #search {
     border-radius: 20px;
     background-color: rgba(0, 0, 0, 0.2); }
+  nav .nav-wrapper form label label[for=email] {
+    top: -10px; }
   nav .nav-wrapper form label i {
     color: rgba(0, 0, 0, 0.2); }
   nav .nav-wrapper form i.material-icons {

@@ -9,10 +9,10 @@
       <ul class="collection z-depth-1">
         <li class="collection-item typing">
           <div class="row">
-            <div class="col s8">
+            <div class="col s7">
               <p>5015-36-O <span class="gray" style="padding-left:30px;">Exact Amounts, Quantity</span></p>
             </div>
-            <div class="col s4 right-align">
+            <div class="col s5 right-align">
               <p class="being-typed">
                 <i class="material-icons">wallpaper</i>
                 <i class="material-icons">restore</i>
@@ -23,10 +23,10 @@
         </li>
         <li class="collection-item typing">
           <div class="row">
-            <div class="col s8">
+            <div class="col s7">
               <p>5015-39-O</p>
             </div>
-            <div class="col s4 right-align">
+            <div class="col s5 right-align">
               <p class="being-typed">+ details</p>
             </div>
           </div>

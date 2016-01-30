@@ -8,6 +8,18 @@ body {
 .container { max-width: 750px; }
 .collection-wrapper { margin-top: 85px; }
 
+.collection-wrapper {
+  > .collection {
+    > .collection-item {
+      .row {
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 13px;
+      }
+    }
+  }
+}
+
 .collection {
 
   border-width: 0px;

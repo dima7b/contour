@@ -10,10 +10,10 @@
         <p class="sub-title"><strong>Baluste</strong></p>
         <li class="collection-item z-depth-1">
           <div class="row">
-            <div class="col s8">
+            <div class="col s7">
               <p>5015-36|</p>
             </div>
-            <div class="col s4 right-align">
+            <div class="col s5 right-align">
               <p class="being-typed">Tap enter when <span>DONE</span></p>
             </div>
           </div>

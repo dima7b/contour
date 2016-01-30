@@ -14,20 +14,20 @@
             <ul class="collection expanded sub-details">
               <li class="collection-item typing">
                 <div class="row">
-                  <div class="col s8">
+                  <div class="col s7">
                     <p>Baluste|</p>
                   </div>
-                  <div class="col s4 right-align">
+                  <div class="col s5 right-align">
                     <p class="being-typed">+ details</p>
                   </div>
                 </div>
               </li>
               <li class="collection-item typing">
                 <div class="row">
-                  <div class="col s8">
+                  <div class="col s7">
                     <p>Balusters|</p>
                   </div>
-                  <div class="col s4 right-align">
+                  <div class="col s5 right-align">
                     <p class="being-typed">Tap enter when <span>DONE</span></p>
                   </div>
                 </div>

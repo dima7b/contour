@@ -14,10 +14,10 @@
           <li class="collection-item collection-item-expanded z-depth-1">
 
             <div class="row row-header">
-              <div class="col s8">
+              <div class="col s7">
                 <a href="#"><i class="material-icons">close</i></a>
               </div>
-              <div class="col s4 right-align">
+              <div class="col s5 right-align">
                 <a href="#"><i class="material-icons">insert_link</i></a>
                 <a href="#"><i class="material-icons">done</i></a>
               </div>
@@ -54,10 +54,10 @@
         <ul class="collection z-depth-1">
           <li class="collection-item typing">
             <div class="row">
-              <div class="col s8">
+              <div class="col s7">
                 <p>5015-39-O</p>
               </div>
-              <div class="col s4 right-align">
+              <div class="col s5 right-align">
                 <p class="being-typed">[+ details sheet]</p>
               </div>
             </div>

@@ -35,10 +35,10 @@
       <ul class="collection z-depth-1">
         <li class="collection-item typing">
           <div class="row">
-            <div class="col s8">
+            <div class="col s7">
               <p>Balusters|</p>
             </div>
-            <div class="col s4 right-align">
+            <div class="col s5 right-align">
               <p class="being-typed">Tap enter when <span>DONE</span></p>
             </div>
           </div>
@@ -50,10 +50,10 @@
       <ul class="collection z-depth-1">
         <li class="collection-item typing">
           <div class="row">
-            <div class="col s8">
+            <div class="col s7">
               <p>Balusters|</p>
             </div>
-            <div class="col s4 right-align">
+            <div class="col s5 right-align">
               <p class="being-typed">+ details</p>
             </div>
           </div>
@@ -72,10 +72,10 @@
       <ul class="collection z-depth-1">
         <li class="collection-item typing">
           <div class="row">
-            <div class="col s8">
+            <div class="col s7">
               <p>5015-36-O <span class="gray" style="padding-left:30px;">Exact Amounts, Quantity</span></p>
             </div>
-            <div class="col s4 right-align">
+            <div class="col s5 right-align">
               <p class="being-typed">
                 <i class="material-icons">wallpaper</i>
                 <i class="material-icons">restore</i>
@@ -86,10 +86,10 @@
         </li>
         <li class="collection-item typing">
           <div class="row">
-            <div class="col s8">
+            <div class="col s7">
               <p>5015-39-O</p>
             </div>
-            <div class="col s4 right-align">
+            <div class="col s5 right-align">
               <p class="being-typed">+ details</p>
             </div>
           </div>
@@ -130,10 +130,10 @@
         <p class="sub-title"><strong>Balusters</strong></p>
         <li class="collection-item z-depth-1">
           <div class="row">
-            <div class="col s8">
+            <div class="col s7">
               <p>5015-36|</p>
             </div>
-            <div class="col s4 right-align">
+            <div class="col s5 right-align">
               <p class="being-typed">Tap enter when <span>DONE</span></p>
             </div>
           </div>
@@ -147,10 +147,10 @@
         <li class="collection-item collection-item-expanded z-depth-1">
 
           <div class="row row-header">
-            <div class="col s8">
+            <div class="col s7">
               <a href="#"><i class="material-icons">close</i></a>
             </div>
-            <div class="col s4 right-align">
+            <div class="col s5 right-align">
               <a href="#"><i class="material-icons">insert_link</i></a>
               <a href="#"><i class="material-icons">done</i></a>
             </div>
@@ -228,20 +228,20 @@
             <ul class="collection expanded sub-details">
               <li class="collection-item typing">
                 <div class="row">
-                  <div class="col s8">
+                  <div class="col s7">
                     <p>Balusters|</p>
                   </div>
-                  <div class="col s4 right-align">
+                  <div class="col s5 right-align">
                     <p class="being-typed">+ details</p>
                   </div>
                 </div>
               </li>
               <li class="collection-item typing">
                 <div class="row">
-                  <div class="col s8">
+                  <div class="col s7">
                     <p>Balusters|</p>
                   </div>
-                  <div class="col s4 right-align">
+                  <div class="col s5 right-align">
                     <p class="being-typed">Tap enter when <span>DONE</span></p>
                   </div>
                 </div>
@@ -264,10 +264,10 @@
           <li class="collection-item collection-item-expanded z-depth-1">
 
             <div class="row row-header">
-              <div class="col s8">
+              <div class="col s7">
                 <a href="#"><i class="material-icons">close</i></a>
               </div>
-              <div class="col s4 right-align">
+              <div class="col s5 right-align">
                 <a href="#"><i class="material-icons">insert_link</i></a>
                 <a href="#"><i class="material-icons">done</i></a>
               </div>
@@ -304,10 +304,10 @@
         <ul class="collection z-depth-1">
           <li class="collection-item typing">
             <div class="row">
-              <div class="col s8">
+              <div class="col s7">
                 <p>5015-39-O</p>
               </div>
-              <div class="col s4 right-align">
+              <div class="col s5 right-align">
                 <p class="being-typed">[+ details sheet]</p>
               </div>
             </div>
@@ -327,10 +327,10 @@
           <li class="collection-item collection-item-expanded z-depth-1">
 
             <div class="row row-header">
-              <div class="col s8">
+              <div class="col s7">
                 <a href="#"><i class="material-icons">close</i></a>
               </div>
-              <div class="col s4 right-align">
+              <div class="col s5 right-align">
                 <a href="#"><i class="material-icons">insert_link</i></a>
                 <a href="#"><i class="material-icons">done</i></a>
               </div>
@@ -428,10 +428,10 @@
           <li class="collection-item collection-item-expanded z-depth-1">
 
             <div class="row row-header">
-              <div class="col s8">
+              <div class="col s7">
                 <a href="#"><i class="material-icons">close</i></a>
               </div>
-              <div class="col s4 right-align">
+              <div class="col s5 right-align">
                 <a href="#"><i class="material-icons">insert_link</i></a>
                 <a href="#"><i class="material-icons">done</i></a>
               </div>
@@ -470,10 +470,10 @@
         <ul class="collection z-depth-1">
           <li class="collection-item typing">
             <div class="row">
-              <div class="col s8">
+              <div class="col s7">
                 <p>5015-39-O</p>
               </div>
-              <div class="col s4 right-align">
+              <div class="col s5 right-align">
                 <p class="being-typed">[+ details sheet]</p>
               </div>
             </div>
@@ -492,10 +492,10 @@
           <li class="collection-item collection-item-expanded z-depth-1">
 
             <div class="row row-header">
-              <div class="col s8">
+              <div class="col s7">
                 <a href="#"><i class="material-icons">close</i></a>
               </div>
-              <div class="col s4 right-align">
+              <div class="col s5 right-align">
                 <a href="#"><i class="material-icons">insert_link</i></a>
                 <a href="#"><i class="material-icons">done</i></a>
               </div>
@@ -550,10 +550,10 @@
         <ul class="collection z-depth-1">
           <li class="collection-item typing">
             <div class="row">
-              <div class="col s8">
+              <div class="col s7">
                 <p>5015-39-O</p>
               </div>
-              <div class="col s4 right-align">
+              <div class="col s5 right-align">
                 <p class="being-typed">[+ details sheet]</p>
               </div>
             </div>

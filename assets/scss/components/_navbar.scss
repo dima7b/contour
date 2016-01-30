@@ -65,6 +65,7 @@ nav {
       }
 
       label {
+        label[for=email] { top: -10px; }
         i { color: $rgba; }
       }
 
