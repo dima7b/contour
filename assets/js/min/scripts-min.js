@@ -1,0 +1,1 @@
+!function($){$(".collection-item.empty").click(function(){$(this).removeClass("empty")}),$(".collection-item textarea").on("keyup change",function(){this.value.length>0?$(".collection-item .tap-done").show():$(".collection-item .tap-done").hide()})}(jQuery);
