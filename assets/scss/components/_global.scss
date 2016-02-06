@@ -19,10 +19,13 @@ textarea {
 }
 
 .tap-done {
-  display: none;
-  -webkit-transition:all .2s ease-in-out;
-  -o-transition:all .2s ease-in-out;
-  transition:all .2s ease-in-out;
+  .done,
+  .being-details {
+    display: none;
+    -webkit-transition:all .2s ease-in-out;
+    -o-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+  }
 }
 
 .gray { color: $gray; }
@@ -32,7 +35,8 @@ textarea {
   -o-transition:all .2s ease-in-out;
   transition:all .2s ease-in-out;
 
-  .tap-done { display: none !important; }
+  .tap-done .done { display: none !important; }
+  .tap-done .being-details { display: none !important; }
 }
 
 .container { max-width: 750px; }
@@ -99,6 +103,12 @@ textarea {
     .being-typed {
       color: rgba(188, 188, 188, 0.3);
 
+      a {
+        color: rgba(188, 188, 188, 0.3);
+
+        &:hover { color: rgba(188, 188, 188, 0.6); }
+      }
+
       span {
         color: #311b92;
         font-weight: bold;
@@ -139,3 +149,11 @@ textarea {
     padding-left: 30px;
   }
 }
+
+.materials-btn {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+}
+
+textarea { resize: none; }

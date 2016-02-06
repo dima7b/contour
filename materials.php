@@ -14,7 +14,6 @@
 
   <?php include 'assets/html/components/navbar-materials.php' ?>
 
-
   <div class="container">
     <div class="collection-wrapper">
 

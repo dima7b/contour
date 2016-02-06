@@ -1,1 +1,1 @@
-<textarea name="enter_type" placeholder="Start typing or tap to add Material Category"></textarea>
+<textarea name="enter_type" placeholder="Start typing or tap to add Material Category" rows="10" cols="15"></textarea>

@@ -8539,7 +8539,8 @@ textarea {
     box-shadow: 0px 0px 0px #FFF;
     outline: -webkit-focus-ring-color auto 0px; }
 
-.tap-done {
+.tap-done .done,
+.tap-done .being-details {
   display: none;
   -webkit-transition: all .2s ease-in-out;
   -o-transition: all .2s ease-in-out;
@@ -8553,7 +8554,9 @@ textarea {
   -webkit-transition: all .2s ease-in-out;
   -o-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out; }
-  .empty .tap-done {
+  .empty .tap-done .done {
+    display: none !important; }
+  .empty .tap-done .being-details {
     display: none !important; }
 
 .container {
@@ -8600,6 +8603,10 @@ textarea {
       background-color: #FFFFFF; }
     .collection .collection-item .being-typed {
       color: rgba(188, 188, 188, 0.3); }
+      .collection .collection-item .being-typed a {
+        color: rgba(188, 188, 188, 0.3); }
+        .collection .collection-item .being-typed a:hover {
+          color: rgba(188, 188, 188, 0.6); }
       .collection .collection-item .being-typed span {
         color: #311b92;
         font-weight: bold; }
@@ -8626,6 +8633,14 @@ textarea {
 
 .right-align .material-icons {
   padding-left: 30px; }
+
+.materials-btn {
+  position: absolute;
+  bottom: 40px;
+  right: 40px; }
+
+textarea {
+  resize: none; }
 
 @media only screen and (min-width: 601px) {
   nav {

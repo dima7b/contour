@@ -1,0 +1,1 @@
+<textarea name="enter_type" placeholder="Start typing or tap to add Product Name" rows="10" cols="15"></textarea>

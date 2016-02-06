@@ -1,8 +1,8 @@
-<nav class="green accent-3" role="navigation">
+<nav class="orange accent-3" role="navigation">
   <div class="nav-wrapper">
     <!-- <a id="logo-container" href="#" class="brand-logo">Logo</a> -->
     <ul class="left hide-on-med-and-down">
-      <li class="active"><a href="/index.php"><i class="large material-icons">keyboard_arrow_left</i> Editing Materials</a></li>
+      <li class="active"><a href="/index.php"><i class="large material-icons">keyboard_arrow_left</i> Editing Product</a></li>
     </ul>
 
     <ul class="right hide-on-med-and-down">
@@ -17,4 +17,4 @@
   </div>
 </nav>
 
-<a class="btn-floating btn-large materials-btn waves-effect waves-light green"><i class="material-icons">add</i></a>
+<a class="btn-floating btn-large materials-btn waves-effect waves-light orange"><i class="material-icons">add</i></a>

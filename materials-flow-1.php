@@ -13,7 +13,8 @@
               <?php include 'assets/html/components/snippet-textinput.php' ?>
             </div>
             <div class="col s5 right-align tap-done">
-              <p class="being-typed">Tap enter when <span>DONE</span></p>
+              <p class="being-typed done" style="display: none;">Tap enter when <span>DONE</span></p>
+              <p class="being-details"><a href="#">+ details</a></p>
             </div>
           </div>
         </li>
