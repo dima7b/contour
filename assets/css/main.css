@@ -8642,6 +8642,19 @@ textarea {
 textarea {
   resize: none; }
 
+.tap-done {
+  position: relative; }
+  .tap-done .being-details {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    background-color: #FFF; }
+    .tap-done .being-details a {
+      color: rgba(188, 188, 188, 0.3); }
+      .tap-done .being-details a:hover {
+        color: rgba(188, 188, 188, 0.6); }
+
 @media only screen and (min-width: 601px) {
   nav {
     height: 74px;

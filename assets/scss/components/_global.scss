@@ -157,3 +157,21 @@ textarea {
 }
 
 textarea { resize: none; }
+
+.tap-done {
+  position: relative;
+
+  .being-details {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    background-color: #FFF;
+
+    a {
+      color: rgba(188, 188, 188, 0.3);
+
+      &:hover { color: rgba(188, 188, 188, 0.6); }
+    }
+  }
+}
