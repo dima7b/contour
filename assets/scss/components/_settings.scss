@@ -1,0 +1,43 @@
+.tabs {
+  // max-width: 320px;
+  background-color: #50e3c2;
+  .tab {
+    text-transform: capitalize;
+
+    a {
+      color: rgba(255, 255, 255, 0.67);
+      &:hover { color: #FFF; }
+
+      &.active {
+        color: #FFF;
+        border-color: #50e3c2;
+      }
+    }
+  }
+
+  .indicator {
+    background-color: #ffeb3b;
+  }
+}
+
+.tab-content {
+  padding: 20px;
+  display: inline-block;
+  width: 100%;
+  background-color: #FFF;
+
+  small { color: #bcbcbc; }
+  i, h5 { color: #2196f3; }
+
+  i { font-size: 3em; }
+  h5 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+}
+
+.line-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 15px;
+}

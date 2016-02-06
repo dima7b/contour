@@ -10,7 +10,7 @@
 
     <ul class="right hide-on-med-and-down">
       <li class="apps"><a href="#"><i class="large material-icons">apps</i> Apps</a></li>
-      <li class="profile"><a href="#"><i class="large material-icons">face</i></a></li>
+      <li class="profile"><a href="settings.php"><i class="large material-icons">face</i></a></li>
     </ul>
 
     <ul id="nav-mobile" class="side-nav">

@@ -8714,6 +8714,41 @@ nav .nav-wrapper form {
     color: rgba(0, 0, 0, 0.2); }
   nav .nav-wrapper form i.material-icons {
     display: inline-block;
-    line-height: 58px; }
+    line-height: 58px;
+    top: 0px; }
+
+.tabs {
+  background-color: #50e3c2; }
+  .tabs .tab {
+    text-transform: capitalize; }
+    .tabs .tab a {
+      color: rgba(255, 255, 255, 0.67); }
+      .tabs .tab a:hover {
+        color: #FFF; }
+      .tabs .tab a.active {
+        color: #FFF;
+        border-color: #50e3c2; }
+  .tabs .indicator {
+    background-color: #ffeb3b; }
+
+.tab-content {
+  padding: 20px;
+  display: inline-block;
+  width: 100%;
+  background-color: #FFF; }
+  .tab-content small {
+    color: #bcbcbc; }
+  .tab-content i, .tab-content h5 {
+    color: #2196f3; }
+  .tab-content i {
+    font-size: 3em; }
+  .tab-content h5 {
+    margin-top: 0px;
+    margin-bottom: 0px; }
+
+.line-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 15px; }
 
 /*# sourceMappingURL=main.css.map */
