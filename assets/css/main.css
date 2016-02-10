@@ -8524,6 +8524,10 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   .picker--time .picker__box {
     margin-bottom: 5em; } }
 
+.hidden {
+  display: none;
+  visibility: hidden; }
+
 body {
   font-size: 18px;
   background-color: #e9e7e7; }
@@ -8576,8 +8580,10 @@ textarea {
 .collection {
   border-width: 0px; }
   .collection.expanded {
+    margin-top: 0px;
     padding: 10px 40px 20px;
-    background-color: #d4d3d3; }
+    background-color: #d4d3d3;
+    cursor: pointer; }
     .collection.expanded .sub-title {
       color: #909094; }
     .collection.expanded > .expanded {
@@ -8585,7 +8591,8 @@ textarea {
   .collection .collection-item {
     padding-bottom: 0px;
     padding-left: 11px;
-    padding-right: 11px; }
+    padding-right: 11px;
+    cursor: pointer; }
     .collection .collection-item.collection-item-expanded {
       margin-bottom: 20px; }
     .collection .collection-item .row {
@@ -8654,6 +8661,27 @@ textarea {
       color: rgba(188, 188, 188, 0.3); }
       .tap-done .being-details a:hover {
         color: rgba(188, 188, 188, 0.6); }
+
+.fixed-action-btn ul li {
+  position: relative; }
+  .fixed-action-btn ul li span {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #FFF;
+    font-size: 0.9rem;
+    display: inline-block;
+    position: absolute;
+    top: 5px;
+    left: -100px;
+    width: 100px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    opacity: 0;
+    transform: scaleY(0.4) scaleX(0.4) translateY(40px) translateX(0px);
+    transition: .3s; }
+
+.fixed-action-btn:hover span {
+  transform: scaleY(1) scaleX(1) translateY(0) translateX(0px);
+  opacity: 1; }
 
 @media only screen and (min-width: 601px) {
   nav {

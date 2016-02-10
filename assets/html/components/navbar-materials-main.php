@@ -2,9 +2,9 @@
   <div class="nav-wrapper">
     <!-- <a id="logo-container" href="#" class="brand-logo">Logo</a> -->
     <ul class="left hide-on-med-and-down">
-      <li class="active"><a href="#"># Orders</a></li>
+      <li><a href="#"># Orders</a></li>
       <li><a href="products.php">/ Products</a></li>
-      <li><a href="materials-main.php">[ Materials</a></li>
+      <li class="active"><a href="materials-main.php">[ Materials</a></li>
       <li><?php include 'assets/html/components/navbar-searchbar.php' ?></li>
     </ul>
 

@@ -1,3 +1,8 @@
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
 body {
   font-size: 18px;
   background-color: #e9e7e7;
@@ -62,8 +67,10 @@ textarea {
   border-width: 0px;
 
   &.expanded {
+    margin-top: 0px;
     padding: 10px 40px 20px;
     background-color: #d4d3d3;
+    cursor: pointer;
 
     .sub-title { color: #909094; }
 
@@ -74,6 +81,7 @@ textarea {
     padding-bottom: 0px;
     padding-left: 11px;
     padding-right: 11px;
+    cursor: pointer;
 
     &.collection-item-expanded { margin-bottom: 20px; }
 
@@ -174,4 +182,35 @@ textarea { resize: none; }
       &:hover { color: rgba(188, 188, 188, 0.6); }
     }
   }
+}
+
+.fixed-action-btn {
+  ul {
+    li {
+      position: relative;
+      span {
+        padding-top: 2px;
+        padding-bottom: 2px;
+        background-color: #FFF;
+        font-size: 0.9rem;
+        display: inline-block;
+        position: absolute;
+        top: 5px;
+        left: -100px;
+        width: 100px;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+        opacity: 0;
+        transform: scaleY(0.4) scaleX(0.4) translateY(40px) translateX(0px);
+        transition: .3s;
+      }
+    }
+  }
+
+  &:hover {
+    span {
+      transform: scaleY(1) scaleX(1) translateY(0) translateX(0px);
+      opacity: 1;
+    }
+  }
+
 }
