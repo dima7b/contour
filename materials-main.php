@@ -15,17 +15,18 @@
 
   <div class="container">
     <div class="collection-wrapper">
-      <ul class="collection z-depth-1">
+      <p class="sub-title hidden"><strong>Stair Lumber</strong></p>
+      <ul class="collection parent-collection z-depth-1">
 
-        <li id="item1" class="collection-item cte">
+        <li id="item1" class="collection-item cte fixed">
           <div class="row main-collection">
             <div class="col s7">
-              <p class="enter_type">Stair Lumber</p>
+              <p>Stair Lumber <span class="gray" style="padding-left:30px;">5015-36-O, 5015-36-O</span></p>
             </div>
           </div>
 
           <ul class="collection z-depth-1 hidden-collection">
-            <li class="collection-item typing">
+            <li class="collection-item typing non-cte">
               <div class="row">
                 <div class="col s7">
                   <p>5015-36-O <span class="gray" style="padding-left:30px;">Exact Amounts, Quantity</span></p>
@@ -39,7 +40,7 @@
                 </div>
               </div>
             </li>
-            <li class="collection-item typing">
+            <li class="collection-item typing non-cte">
               <div class="row">
                 <div class="col s7">
                   <p>5015-39-O</p>
@@ -49,10 +50,10 @@
                 </div>
               </div>
             </li>
-            <li class="collection-item empty">
+            <li class="collection-item empty non-cte">
               <div class="row">
-                <div class="col s8">
-                  <p>Start typing or tap to add a sub-material…</p>
+                <div class="col s7">
+                  <?php include 'assets/html/components/snippet-textinput.php' ?>
                 </div>
               </div>
             </li>

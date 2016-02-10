@@ -8580,8 +8580,8 @@ textarea {
 .collection {
   border-width: 0px; }
   .collection.expanded {
-    margin-top: 0px;
-    padding: 10px 40px 20px;
+    margin: 0px -60px 45px;
+    padding: 10px 60px 20px;
     background-color: #d4d3d3;
     cursor: pointer; }
     .collection.expanded .sub-title {
