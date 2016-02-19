@@ -8524,6 +8524,9 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   .picker--time .picker__box {
     margin-bottom: 5em; } }
 
+.no-padding {
+  padding: 0px; }
+
 .hidden {
   display: none;
   visibility: hidden; }
@@ -8542,6 +8545,9 @@ textarea {
     border-color: #000;
     box-shadow: 0px 0px 0px #FFF;
     outline: -webkit-focus-ring-color auto 0px; }
+
+.bg-gray {
+  background-color: #f4f4f4; }
 
 .tap-done .done,
 .tap-done .being-details {
@@ -8584,7 +8590,9 @@ textarea {
     padding: 10px 60px 20px;
     background-color: #d4d3d3;
     cursor: pointer; }
-    .collection.expanded .sub-title {
+    .collection.expanded .sub-title,
+    .collection.expanded .sub-title-two,
+    .collection.expanded .sub-title-three {
       color: #909094; }
     .collection.expanded > .expanded {
       background-color: #c2c0c0; }
@@ -8636,7 +8644,14 @@ textarea {
       .collection .sub-details li:last-child {
         border-bottom: 0px; }
       .collection .sub-details li .unit {
+        display: inline-block;
+        padding-right: 25px;
         color: #037aff; }
+
+.unit {
+  display: inline-block;
+  padding-right: 25px;
+  color: #037aff; }
 
 .right-align .material-icons {
   padding-left: 30px; }

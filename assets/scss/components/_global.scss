@@ -23,6 +23,8 @@ textarea {
   }
 }
 
+.bg-gray { background-color: #f4f4f4; }
+
 .tap-done {
   .done,
   .being-details {
@@ -66,15 +68,15 @@ textarea {
 
   border-width: 0px;
 
-
-
   &.expanded {
     margin: 0px -60px 45px;
     padding: 10px 60px 20px;
     background-color: #d4d3d3;
     cursor: pointer;
 
-    .sub-title { color: #909094; }
+    .sub-title,
+    .sub-title-two,
+    .sub-title-three { color: #909094; }
 
     > .expanded { background-color: #c2c0c0; }
   }
@@ -148,11 +150,21 @@ textarea {
 
       &:last-child { border-bottom: 0px; }
 
-      .unit { color: #037aff; }
+      .unit {
+        display: inline-block;
+        padding-right: 25px;
+        color: #037aff;
+      }
     }
   }
 }
 
+
+.unit {
+  display: inline-block;
+  padding-right: 25px;
+  color: #037aff;
+}
 
 .right-align {
   .material-icons {

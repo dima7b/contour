@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"remove",
+				"remove	.remove()"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"new",
+				"newItem"
+			],
+			[
 				"remo",
 				"removeClass〔function〕"
 			],
@@ -336,10 +352,18 @@
 	"buffers":
 	[
 		{
+			"file": "materials-flow-1.php",
+			"settings":
+			{
+				"buffer_size": 7992,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "assets/css/main.css",
 			"settings":
 			{
-				"buffer_size": 199785,
+				"buffer_size": 200082,
 				"line_ending": "Unix"
 			}
 		},
@@ -347,7 +371,7 @@
 			"file": "assets/scss/components/_global.scss",
 			"settings":
 			{
-				"buffer_size": 3750,
+				"buffer_size": 3982,
 				"line_ending": "Unix"
 			}
 		},
@@ -355,23 +379,7 @@
 			"file": "assets/js/scripts.js",
 			"settings":
 			{
-				"buffer_size": 2635,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "materials-main.php",
-			"settings":
-			{
-				"buffer_size": 3211,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "materials.php",
-			"settings":
-			{
-				"buffer_size": 19310,
+				"buffer_size": 8230,
 				"line_ending": "Unix"
 			}
 		}
@@ -423,25 +431,31 @@
 	[
 		"/Applications/MAMP/websites/contour",
 		"/Applications/MAMP/websites/contour/assets",
+		"/Applications/MAMP/websites/contour/assets/css",
 		"/Applications/MAMP/websites/contour/assets/js",
 		"/Applications/MAMP/websites/contour/assets/js/min"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/websites/contour/materials-flow-18.php",
+		"/Applications/MAMP/websites/contour/assets/scss/components/_global.scss",
+		"/Applications/MAMP/websites/contour/assets/css/main.css",
+		"/Applications/MAMP/websites/contour/sftp-config.json",
 		"/Applications/MAMP/websites/contour/materials.php",
+		"/Applications/MAMP/websites/contour/assets/html/components/snippet-bottom.php",
+		"/Applications/MAMP/websites/contour/materials-flow-8.php",
+		"/Applications/MAMP/websites/contour/materials-main.php",
+		"/Applications/MAMP/websites/contour/assets/scss/components/_variables.scss",
+		"/Applications/MAMP/websites/contour/materials-flow-1.php",
+		"/Applications/MAMP/websites/contour/assets/js/scripts.js",
 		"/Applications/MAMP/websites/contour/assets/html/components/navbar-materials-main.php",
 		"/Applications/MAMP/websites/contour/materials-flow-11.php",
-		"/Applications/MAMP/websites/contour/assets/js/scripts.js",
 		"/Applications/MAMP/websites/contour/materials-flow-9.php",
 		"/Applications/MAMP/websites/contour/assets/html/components/navbar-materials.php",
-		"/Applications/MAMP/websites/contour/assets/scss/components/_global.scss",
 		"/Applications/MAMP/websites/contour/assets/scss/components/_navbar.scss",
 		"/Applications/MAMP/websites/contour/assets/html/components/navbar.php",
-		"/Applications/MAMP/websites/contour/materials-flow-1.php",
-		"/Applications/MAMP/websites/contour/sftp-config.json",
 		"/Applications/MAMP/websites/contour/assets/html/components/snippet-textinput.php",
 		"/Applications/MAMP/websites/contour/assets/html/components/navbar-settings.php",
-		"/Applications/MAMP/websites/contour/assets/html/components/snippet-bottom.php",
 		"/Applications/MAMP/websites/contour/assets/scss/components/_settings.scss",
 		"/Applications/MAMP/websites/contour/settings.php",
 		"/Applications/MAMP/websites/contour/products.php",
@@ -451,16 +465,13 @@
 		"/Applications/MAMP/websites/contour/assets/html/components/navbar-products.php",
 		"/Applications/MAMP/websites/contour/materials-flow-2.php",
 		"/Applications/MAMP/websites/contour/materials-flow-23.php",
-		"/Applications/MAMP/websites/contour/materials-flow-18.php",
 		"/Applications/MAMP/websites/contour/materials-flow-12.php",
 		"/Applications/MAMP/websites/contour/materials-flow-10.php",
 		"/Applications/MAMP/websites/contour/materials-flow-4.php",
 		"/Applications/MAMP/websites/contour/materials-flow-6.php",
-		"/Applications/MAMP/websites/contour/materials-flow-8.php",
 		"/Applications/MAMP/websites/contour/materials-flow-21.php",
 		"/Applications/MAMP/websites/contour/assets/html/components/snippet-head.php",
 		"/Applications/MAMP/websites/contour/assets/html/components/navbar-search.php",
-		"/Applications/MAMP/websites/contour/assets/scss/components/_variables.scss",
 		"/Applications/MAMP/websites/contour/index.php",
 		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/assets/styles/common/_global.scss",
 		"/Applications/MAMP/websites/latinbrothers/wp-content/themes/latinbrothers/templates/header.php",
@@ -553,9 +564,7 @@
 		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/twentyfourteen/content-aside.php",
 		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/other/_animate.scss",
 		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/brew/global.scss",
-		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/custom-variables.scss",
-		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/style.css",
-		"/Applications/MAMP/websites/echoingsoundz/sftp-config-alt.json"
+		"/Applications/MAMP/websites/echoingsoundz/wp-content/themes/echoingsoundz/library/scss/custom-variables.scss"
 	],
 	"find":
 	{
@@ -580,6 +589,45 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"collection sub-details",
+			"exac",
+			"gray",
+			"broken down as",
+			"s8",
+			"row",
+			"exact",
+			"unit",
+			"<div>",
+			"// ",
+			"id=\"close\"",
+			"#close",
+			"collectionIZ1",
+			"s3",
+			"mItem1",
+			"collection-item.emp",
+			"docume",
+			"$('#zItem1').add(newItem);",
+			"collection",
+			"      // $('.collection').append(newItem);\n",
+			"readonly",
+			"main-collection",
+			"being-details",
+			"empty",
+			"</div>",
+			"<div",
+			"hidde",
+			"main-",
+			"'#zItem1'",
+			"sub-title",
+			"$(this).add(newItem);",
+			"$('.collection').append(newItem);",
+			"var",
+			"mItem1",
+			"newItem",
+			"item1",
+			"hidden-collection z-depth-1",
+			"z",
+			"newItem",
 			"</li>",
 			"<li",
 			"li",
@@ -668,46 +716,7 @@
 			"      \n      ",
 			"\n      \nb",
 			"padding-top: 18px;\n      padding-bottom: 17px;\n",
-			"   ",
-			"red",
-			"https:",
-			"plan",
-			"href=\"#\"",
-			"$red",
-			"button",
-			".gform_button",
-			"30px",
-			";\n",
-			"col-sm-3",
-			"h4",
-			"h1",
-			"active",
-			"4px",
-			"8px",
-			"h4",
-			"h3",
-			"Event",
-			"                  <div class=\"col-sm-4\">\n",
-			"div",
-			"quotes",
-			"<h3>",
-			"plan\">",
-			"plan",
-			" <div class=\"plan text-center\">",
-			"7px",
-			"border-rad",
-			"chevron-left",
-			"h4",
-			"View Details",
-			"Back to Packages",
-			"sweet16",
-			"wedding",
-			"8",
-			"0.8",
-			"30px",
-			"<div class=\"plan text-center\">",
-			"slide",
-			"contactModal"
+			"   "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -732,24 +741,58 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "assets/css/main.css",
+					"file": "materials-flow-1.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 199785,
+						"buffer_size": 7992,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								314,
-								314
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								903,
+								903
 							]
 						],
 						"settings":
@@ -765,24 +808,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "assets/scss/components/_global.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3750,
+						"buffer_size": 3982,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3750,
-								3750
+								468,
+								468
 							]
 						],
 						"settings":
@@ -795,27 +838,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1961.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "assets/js/scripts.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2635,
+						"buffer_size": 8230,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1195,
-								1195
+								6925,
+								6925
 							]
 						],
 						"settings":
@@ -829,74 +872,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "materials-main.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3211,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2299,
-								2299
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 46.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "materials.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19310,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2038.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -958,8 +934,40 @@
 		"selected_items":
 		[
 			[
+				"_gl",
+				"assets/scss/components/_global.scss"
+			],
+			[
+				"flow18",
+				"materials-flow-18.php"
+			],
+			[
 				"mater",
 				"materials.php"
+			],
+			[
+				"sf",
+				"sftp-config.json"
+			],
+			[
+				"bott",
+				"assets/html/components/snippet-bottom.php"
+			],
+			[
+				"_",
+				"assets/scss/components/_variables.scss"
+			],
+			[
+				"materialsflow8",
+				"materials-flow-8.php"
+			],
+			[
+				"main",
+				"materials-main.php"
+			],
+			[
+				"sc",
+				"assets/js/scripts.js"
 			],
 			[
 				"nav",
@@ -982,32 +990,12 @@
 				"assets/html/components/navbar-materials.php"
 			],
 			[
-				"_gl",
-				"assets/scss/components/_global.scss"
-			],
-			[
-				"_",
-				"assets/scss/components/_global.scss"
-			],
-			[
 				"ma",
 				"materials-flow-1.php"
 			],
 			[
-				"bott",
-				"assets/html/components/snippet-bottom.php"
-			],
-			[
-				"sf",
-				"sftp-config.json"
-			],
-			[
 				"textinput",
 				"assets/html/components/snippet-textinput.php"
-			],
-			[
-				"main",
-				"assets/scss/main.scss"
 			],
 			[
 				"navba",
@@ -1346,10 +1334,6 @@
 				"wp-content/themes/echoingsoundz/library/scss/other/global.scss"
 			],
 			[
-				"sc",
-				"wp-content/themes/echoingsoundz/library/js/scripts.js"
-			],
-			[
 				"bones",
 				"wp-content/themes/echoingsoundz/library/bones.php"
 			],
@@ -1455,9 +1439,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "ju",
+		"last_filter": "ste",
 		"selected_items":
 		[
+			[
+				"ste",
+				"/Applications/MAMP/websites/sted-e/sted-e.sublime-project"
+			],
 			[
 				"ju",
 				"/Applications/MAMP/websites/juice2/juice2.sublime-project"
